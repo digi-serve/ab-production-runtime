@@ -1,3 +1,7 @@
+⚠️ No longer used. Merged with [digi-serve/ab_runtime](https://github.com/digi-serve/ab_runtime), use it instead.
+
+---
+
 # AppBuilder (v2) Production Runtime
 
 The server side runtime for our AppBuilder project. This is meant for productions servers without root access, or for servers using container systems other than Docker. Recommend using [ab-cli](https://github.com/digi-serve/ab-cli) to install if possible.
